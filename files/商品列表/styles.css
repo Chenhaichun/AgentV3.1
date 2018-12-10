@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:2206px;
+  width:2269px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -2809,7 +2809,7 @@
 #u1551 {
   position:absolute;
   left:1906px;
-  top:254px;
+  top:125px;
   width:300px;
   height:69px;
   color:#FF0000;
@@ -4379,4 +4379,27 @@
   height:41px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
+}
+#u1673_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:363px;
+  height:94px;
+}
+#u1673 {
+  position:absolute;
+  left:1906px;
+  top:252px;
+  width:363px;
+  height:94px;
+  color:#FF0000;
+  text-align:left;
+}
+#u1674 {
+  position:absolute;
+  left:2px;
+  top:23px;
+  width:359px;
+  word-wrap:break-word;
 }
